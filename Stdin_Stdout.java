@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * Stdin_Stdout
- */
 public class Stdin_Stdout {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
